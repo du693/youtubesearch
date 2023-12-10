@@ -1,4 +1,3 @@
-import Head from "next/head";
 import SearchForm from "../components/SearchForm";
 
 export default function Home() {
